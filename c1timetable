@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cluster 1</title>
+<style>
+body { font-family: Arial; text-align: center; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid black; padding: 8px; }
+th { background-color: lightgray; }
+</style>
+</head>
+
+<body>
+
+<h2>Cluster 1 Timetable</h2>
+
+<table>
+<tr>
+<th>Day</th><th>Section</th>
+<th>P1</th><th>P2</th><th>P3</th>
+<th>P4</th><th>P5</th><th>P6</th>
+</tr>
+
+<tr><td>Mon</td><td>SEE-1</td><td>MAI-P1</td><td>MAI-P2</td><td>COD-Proj-L1</td><td>COD-Proj-L2</td><td>DSA-S1</td><td>DSA-S2</td></tr>
+<tr><td>Tue</td><td>SEE-1</td><td>COD-EXAM-L1</td><td>COD-EXAM-L2</td><td>MAI-P3</td><td>MAI-P4</td><td>DSA-L1</td><td>DSA-L2</td></tr>
+<tr><td>Wed</td><td>SEE-1</td><td>FWD-L1</td><td>FWD-L2</td><td>COD-NPTEL-L3</td><td>COD-NPTEL-L4</td><td>CSE-P1</td><td>CSE-P2</td></tr>
+<tr><td>Thu</td><td>SEE-1</td><td>MAI-L1</td><td>MAI-L2</td><td>FWD-S1</td><td>FWD-S2</td><td>HOBBY</td><td>HOBBY</td></tr>
+<tr><td>Fri</td><td>SEE-1</td><td>DSA-S3</td><td>DSA-S4</td><td>FWD-S3</td><td>FWD-S4</td><td>HOBBY</td><td>HOBBY</td></tr>
+<tr><td>Sat</td><td>SEE-1</td><td>COD-DSA-L1</td><td>COD-DSA-L2</td><td>COD-EXAM-L3</td><td>COD-EXAM-L4</td><td>LIB</td><td>LIB</td></tr>
+</table>
+
+<br>
+<a href="index.html">⬅ Back to Main Page</a>
+
+</body>
+</html>
